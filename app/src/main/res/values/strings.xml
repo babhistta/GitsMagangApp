@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">GitsMagang</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="hello_world">Hello World</string>
+    <string name="hello">Hello</string>
+    <string name="world">World</string>
+    <string name="no_result">No Reslut</string>
+
+    <string name="convert_time">Convert Time</string>
+    <string name="reverse_sentences">Reverse Sentences</string>
+    <string name="txt_palindrome">Palindorme</string>
+    <string name="email">Email</string>
+    <string name="submit">Submit</string>
+    <string name="insert_number">Insert Number</string>
+    <string name="output">Output :</string>
+    <string name="result">Result</string>
+    <string name="insert_sentences">Insert Sentences</string>
+    <string name="insert_word">Insert Word</string>
+    <string name="palindrome">%s is a Palindrome</string>
+    <string name="not_palindrome">%s is not a Palindrome</string>
+    <string name="real_email">%s is a valid Email</string>
+    <string name="not_email">%s is not a valid Email</string>
+    <string name="insert_time">Insert Time</string>
+    <string name="insert_email">Insert Email</string>
+</resources>
